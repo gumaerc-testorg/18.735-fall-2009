@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of reading assignments for each class
+  session of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -10,7 +12,7 @@ uid: 5a489126-4e9b-409b-fb48-5e4690743d9c
 Required Readings
 -----------------
 
-In order to prepare for class, students are required to read selections from the course notes. These readings can be found on the [lecture notes]({{< baseurl >}}/pages/lecture-notes) page.
+In order to prepare for class, students are required to read selections from the course notes. These readings can be found on the {{% resource_link b21a9eee-3362-fb41-c649-05a62d19e975 "lecture notes" %}} page.
 
 {{< tableopen >}}
 {{< theadopen >}}
