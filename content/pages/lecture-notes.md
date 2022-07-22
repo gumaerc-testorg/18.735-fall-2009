@@ -1,12 +1,18 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course and
+  a complete set of lecture notes prepared jointly by Prof. Pavel Etingof and Xiaoguang
+  Ma.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b21a9eee-3362-fb41-c649-05a62d19e975
 ---
 
 The course notes were prepared jointly by Prof. Pavel Etingof and Xiaoguang Ma.
 
-Complete lecture notes ([PDF - 2.4MB]({{< baseurl >}}/resources/mit18_735f09_lec))
+Complete lecture notes ({{% resource_link c0a79381-e549-4c4f-d0ba-a1eef2356e89 "PDF - 2.4MB" %}})
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -32,7 +38,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch01))
+({{% resource_link fc2e4fc7-37bf-8508-ba2d-a78d30967110 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +50,7 @@ Introduction
 Classical and quantum Olshanetsky-Perelomov systems for finite Coxeter groups
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch02))
+({{% resource_link e964c67b-2201-1d9d-404f-643ccdc49db7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +62,7 @@ Classical and quantum Olshanetsky-Perelomov systems for finite Coxeter groups
 The rational Cherednik algebra
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch03))
+({{% resource_link 0a639a83-9114-49ff-554a-28b7772cb49f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +74,7 @@ The rational Cherednik algebra
 The Macdonald-Mehta integral
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch04))
+({{% resource_link e423f348-8f43-3543-4c20-286a87214216 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +86,7 @@ The Macdonald-Mehta integral
 Parabolic induction and restriction functors for rational Cherednik algebras
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch05))
+({{% resource_link 86dfe5e9-7a6d-087c-741e-1aca6c6dc3e0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +98,7 @@ Parabolic induction and restriction functors for rational Cherednik algebras
 The Knizhnik-Zamolodchikov functor
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch06))
+({{% resource_link 7447f363-204f-b630-f83e-3f8fff261b04 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +110,7 @@ The Knizhnik-Zamolodchikov functor
 Rational Cherednik algebras and Hecke algebras for varieties with group actions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch07))
+({{% resource_link 02ec876b-4892-8aad-62c3-2c782ce96699 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +122,7 @@ Rational Cherednik algebras and Hecke algebras for varieties with group actions
 Symplectic reflection algebras
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch08))
+({{% resource_link de0c49e5-6261-eca8-c82c-bba5aaf496a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +134,7 @@ Symplectic reflection algebras
 Calogero-Moser spaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch09))
+({{% resource_link b3571a27-6e58-2fae-de23-9395357a45a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +146,7 @@ Calogero-Moser spaces
 Quantization of Calogero-Moser spaces
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_735f09_ch10))
+({{% resource_link 173a8d6e-9978-b029-15d0-c5b99b721345 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
