@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: 'Four relations: s^2=1, sx=-xs, sy=ys, and [y,x] = t-2cs'
 uid: ce32ee93-3cb1-5992-9ca6-2068cbe3e1b2
 ---
 The four relations that define the simplest Cherednik algebra. (Image by MIT OpenCourseWare.)
-
