@@ -2,7 +2,7 @@
 content_type: resource
 description: The four relations that define the simplest Cherednik algebra. (Image
   by MIT OpenCourseWare.)
-file: /courses/18-735-double-affine-hecke-algebras-in-representation-theory-combinatorics-geometry-and-mathematical-physics-fall-2009/ce32ee933cb159929ca62068cbe3e1b2_chp_relation.jpg
+file: /ol-ocw-studio-app/courses/18-735-double-affine-hecke-algebras-in-representation-theory-combinatorics-geometry-and-mathematical-physics-fall-2009/ce32ee933cb159929ca62068cbe3e1b2_chp_relation.jpg
 file_size: 24434
 file_type: image/jpeg
 image_metadata:
