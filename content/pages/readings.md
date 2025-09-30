@@ -194,14 +194,14 @@ Supplemental Readings
 
 Bezrukavnikov, R., and P. Etingof. "Parabolic Induction and Restriction Functors for Rational Cherednik Algebras." _Selecta Math_ 14, nos. 3-5 (2009): 397-425.
 
-Etingof, P., and V. Ginzburg. "Symplectic Reflection Algebras, Calogero-Moser Space, and Deformed Harish-Chandra Homomorphism." [arXiv:math/0011114](http://arxiv.org/abs/math/0011114).
+Etingof, P., and V. Ginzburg. "Symplectic Reflection Algebras, Calogero-Moser Space, and Deformed Harish-Chandra Homomorphism." {{% resource_link "0a9f0e0f-d17c-46c8-a9f5-daf164f6fcb1" "arXiv:math/0011114" %}}.
 
-Rouquier, R. "Representations of Rational Cherednik Algebras." [arXiv:math/0504600](http://arxiv.org/abs/math/0504600).
+Rouquier, R. "Representations of Rational Cherednik Algebras." {{% resource_link "37d2de94-3d7f-499b-a209-6901eaf093c6" "arXiv:math/0504600" %}}.
 
-Etingof, P. Lectures on Calogero-Moser Systems. [arXiv:math/0606233](http://arxiv.org/abs/math/0606233).
+Etingof, P. Lectures on Calogero-Moser Systems. {{% resource_link "a0ed7e8a-5385-40bc-a575-3820024c3c89" "arXiv:math/0606233" %}}.
 
-———. "Cherednik and Hecke Algebras of Varieties With a Finite Group Action." [arXiv: math.QA/0406499](http://arxiv.org/abs/math/0406499).
+———. "Cherednik and Hecke Algebras of Varieties With a Finite Group Action." {{% resource_link "f0d31efe-4512-4c19-a7aa-48b4c3269289" "arXiv: math.QA/0406499" %}}.
 
-———. "A Uniform Proof of the Macdonald-Mehta-Opdam Identity for Finite Coxeter Groups." [arXiv:0903.5084](http://arxiv.org/abs/0903.5084).
+———. "A Uniform Proof of the Macdonald-Mehta-Opdam Identity for Finite Coxeter Groups." {{% resource_link "576934c8-47cf-4fff-89d4-f629d48757ec" "arXiv:0903.5084" %}}.
 
-———. "Supports of Irreducible Spherical Representations of Rational Cherednik Algebras of Finite Coxeter Groups." [arXiv:0911.3208](http://arxiv.org/abs/0911.3208).
+———. "Supports of Irreducible Spherical Representations of Rational Cherednik Algebras of Finite Coxeter Groups." {{% resource_link "1c1b3bad-99ed-4b4c-ab7e-e6aae3f7a19e" "arXiv:0911.3208" %}}.
